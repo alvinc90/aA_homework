@@ -1,0 +1,60 @@
+/* PHASE 3: Content */
+
+.content {
+    background-color: #fff;
+    margin: auto; 
+    width: 900px; 
+    border-left: 2px solid #ccc ;
+    border-right: 2px solid #ccc ;
+    border-bottom: 2px solid #ccc ;
+}
+
+.content-sidebar {
+    width: 240px; 
+    padding: 18px; 
+    float: left; 
+}
+
+.content-main {
+    width: 660px;
+    padding: 15px; 
+    float: left; 
+}
+
+.content h1 {
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.content p {
+
+}
+
+
+
+
+
+# Specifications
+
+## Colors
+- Black: #000
+- White: #fff
+- Dark Gray: #aaa
+- Gray: #ccc
+- Light Gray: #eee
+- Red: #f00
+
+## Type
+- Font Family: sans-serif
+- Font Weights: 400, 700
+- Font Sizes: 24px, 16px, 14px
+
+## Borders
+- Thickness: 1px
+
+## Layout
+- Whitespace: 5px, 10px, 20px
+- Total Size Container: 900px
+- Total Size Sidebar: 240px
+- Total Size Content: 660px
